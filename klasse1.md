@@ -49,15 +49,5 @@ wenn die Amplitude nicht hoch ist, mach das Tor zu.
 zu Tiefe Frequenz und zu höhe Frequenz brauchen wir nicht für die Analyze.
 
 
-## patch 8: Anti-Chatter
- ![](res/k1/img/p8.png)
-
-
-
-## patch 9: Statistik
- ![](res/k1/img/p9.png)
-
-
-
 ## HA
 programmieren Sie ein reaktionsystem, die mind. zwei Aspekte des eingegebenen Klangs analyziert und darauf reagiert. 
