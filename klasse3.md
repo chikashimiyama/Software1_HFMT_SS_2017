@@ -1,52 +1,37 @@
-#Klasse3 - Mapping
+#Klasse3 - Klangfarbeerkennung
 
-## Objekte
+### Frequenzgruppen
 
-- snapshot~
-- average~ 
-- zerox~ 
-- peekamp~ 
-- &&
-- ||
-- sigmund~
+ Mit Frequenzgruppen (Plural, engl. critical bands) bezeichnet man beim menschlichen Hören Frequenzbereiche, die gemeinsam ausgewertet werden. Eine Auswertung in Frequenzgruppen erfolgt z. B. bei der Bestimmung der **Lautstärke**, des Klangs oder der Richtung des Schalls. Eine Ausnahme ist die Auswertung der Tonhöhe selbst: hier ist die Frequenzauflösung wesentlich größer. Das menschliche Gehör teilt die hörbaren Frequenzen in etwa 24 Frequenzgruppen ein.
 
-## patch 1: Anti-Chatter
- ![](res/k1/img/p8.png)
+![](res/k3/cb.png)
 
-## patch 2: Statistik 1
- ![](res/k1/img/p9.png)
- 
- 
-## patch 3: Statistik 2
- 
+## patch1: bark~
+![](res/k3/patch1.png)
 
-## patch 4: Delta
+## patch2: Visualisierung
+![](res/k3/patch2.png)
 
+## patch3: Bark Skala Sampling mit tmp
+![](res/k3/patch3.png)
 
-## patch 5: Dynamismus (Delta + Statistik)
+## patch4: 3x Bark Skala Sampling 
+![](res/k3/patch4.png)
 
+## patch5: Messung der Distanz zwischen zwei Skalen
+![](res/k3/patch5.png)
 
-## patch 6: Hüllkurve
+## patch6: Summe
+![](res/k3/patch6.png)
 
+## patch7: Distanzen
+![](res/k3/patch7.png)
 
-## patch 7: Onset-Erkennung 1
+## patch8: Normalisierung
+![](res/k3/patch8.png)
 
+## patch9: Minimum
+![](res/k3/patch9.png)
 
-
-## patch 8: Onset-Erkennung 2
-
-
-
-## patch 9: Klangfarbeanalyze 1
-
-
-
-## patch 10: Klangfarbeanalyze 2
-
-
-
-## patch 11: Klangfarbeanalyze 3
-
-
-## HA
-programmieren Sie ein reaktionsystem, die mind. zwei Aspekte des eingegebenen Klangs analyziert und darauf reagiert. 
+## patch10: Thresholding
+![](res/k3/patch10.png)
