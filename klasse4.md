@@ -22,10 +22,10 @@
 ## patch 7 : delayed parameter mapping
 ![](res/k4/patch7.png)
 
-## patch 8 : many to one mapping #2
+## patch 8 : many to one mapping #1
 ![](res/k4/patch8.png)
 
-## patch 9 : many to one mapping #3
+## patch 9 : many to one mapping #2
 
 
 ![](res/k4/patch9.png)

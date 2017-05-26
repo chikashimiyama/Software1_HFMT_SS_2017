@@ -1,10 +1,34 @@
 #Klasse3 - Klangfarbeerkennung
 
+### Klangfarbe
+
+Spektrum
+![](res/k3/a.png)
+
+a...
+
+![](res/k3/e.png)
+
+e...
+
+![](res/k3/s.png)
+
+s...
+
+Spektrum = wissenschaftliche Darstellung
+
+Unsere Wahrnemung der Tonhöhe ist nicht Linear.
+![](res/k3/pitch.jpg)
+
+
+
 ### Frequenzgruppen
 
- Mit Frequenzgruppen (Plural, engl. critical bands) bezeichnet man beim menschlichen Hören Frequenzbereiche, die gemeinsam ausgewertet werden. Eine Auswertung in Frequenzgruppen erfolgt z. B. bei der Bestimmung der **Lautstärke**, des Klangs oder der Richtung des Schalls. Eine Ausnahme ist die Auswertung der Tonhöhe selbst: hier ist die Frequenzauflösung wesentlich größer. Das menschliche Gehör teilt die hörbaren Frequenzen in etwa 24 Frequenzgruppen ein.
+ Mit Frequenzgruppen (engl. critical bands) bezeichnet man beim menschlichen Hören Frequenzbereiche, die gemeinsam ausgewertet werden. Eine Auswertung in Frequenzgruppen erfolgt z. B. bei der Bestimmung der **Lautstärke**, des Klangs oder der Richtung des Schalls. Eine Ausnahme ist die Auswertung der Tonhöhe selbst: hier ist die Frequenzauflösung wesentlich größer. Das menschliche Gehör teilt die hörbaren Frequenzen in etwa 24 Frequenzgruppen ein.
 
 ![](res/k3/cb.png)
+
+### Bark Skala
 
 ## patch1: bark~
 ![](res/k3/patch1.png)
